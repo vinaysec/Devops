@@ -1,1 +1,3 @@
  This is Devops training
+
+and branch is Git
